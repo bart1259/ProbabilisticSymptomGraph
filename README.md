@@ -30,3 +30,10 @@ probabilistic_graph = ProbabilisticSymptomConditionGraph(condition_names, sympto
 print(" | ".join(probabilistic_graph.get_all_symptoms()[:10]))
 probabilistic_graph.get_condition_probs(["acne"])[:5]
 ```
+
+## Graph Image
+Red nodes represent medical conditions and green nodes represent symptoms.
+![image](https://github.com/bart1259/ProbabilisticSymptomGraph/assets/21147581/1f693ddf-20d8-4320-9265-a84a3403a5eb)
+This graph data was gathered by mining Wikipedia "Medical Condition (New)" infoboxes and extracting medical condition <=> Symptom pairs. Post processing was done using ChatGPT.
+
+
