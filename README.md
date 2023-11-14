@@ -36,4 +36,5 @@ Red nodes represent medical conditions and green nodes represent symptoms.
 ![image](https://github.com/bart1259/ProbabilisticSymptomGraph/assets/21147581/1f693ddf-20d8-4320-9265-a84a3403a5eb)
 This graph data was gathered by mining Wikipedia "Medical Condition (New)" infoboxes and extracting medical condition <=> Symptom pairs. Post processing was done using ChatGPT.
 
-
+## Data Mining
+See `./data/WikipediaSymptomExtractor.ipynb`
