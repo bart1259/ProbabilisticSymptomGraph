@@ -3,11 +3,12 @@ import numpy as np
 import networkx as nx
 
 class ProbabilisticSymptomConditionGraph:
-    def __init__(self, condition_names, symptom_names, graph, similarity_matrix=None):
+    def __init__(self, condition_names, symptom_names, graph, similarity_matrix=None, similarity_cutoff=0.65):
         self.symptom_names = symptom_names
         self.symptom_to_index = {symptom:i for i,symptom in enumerate(self.symptom_names)}
         self.condition_names = condition_names
         self.condition_to_index = {condition:i for i,condition in enumerate(self.condition_names)}
+        self.similarity_cutoff = similarity_cutoff
         self.graph = graph
         
         # Normalize matrix
@@ -28,7 +29,7 @@ class ProbabilisticSymptomConditionGraph:
             for symptom in symptoms:
                 symptom_row = self.similarity_matrix[self.symptom_to_index[symptom]]
                 symptom_row = (symptom_row - symptom_row.min()) / (symptom_row.max() - symptom_row.min())
-                symptom_row[symptom_row <= 0.65] = 0
+                symptom_row[symptom_row <= self.similarity_cutoff] = 0
                 symptom_weights += symptom_row
         else:
             for symptom in symptoms:

@@ -1,0 +1,1897 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-11-14">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="3" title="prevalence" type="long" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="name" type="string" />
+      <attribute id="1" title="type" type="string" />
+      <attribute id="2" title="prevalence" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Persistent sadness or feelings of hopelessness" label="Persistent sadness or feelings of hopelessness">
+        <attvalues>
+          <attvalue for="0" value="Persistent sadness or feelings of hopelessness" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Loss of interest or pleasure in activities once enjoyed" label="Loss of interest or pleasure in activities once enjoyed">
+        <attvalues>
+          <attvalue for="0" value="Loss of interest or pleasure in activities once enjoyed" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Changes in appetite or weight (significant weight loss or gain)" label="Changes in appetite or weight (significant weight loss or gain)">
+        <attvalues>
+          <attvalue for="0" value="Changes in appetite or weight (significant weight loss or gain)" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Insomnia or excessive sleeping" label="Insomnia or excessive sleeping">
+        <attvalues>
+          <attvalue for="0" value="Insomnia or excessive sleeping" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Fatigue or loss of energy" label="Fatigue or loss of energy">
+        <attvalues>
+          <attvalue for="0" value="Fatigue or loss of energy" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Restlessness or irritability" label="Restlessness or irritability">
+        <attvalues>
+          <attvalue for="0" value="Restlessness or irritability" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Difficulty concentrating or making decisions" label="Difficulty concentrating or making decisions">
+        <attvalues>
+          <attvalue for="0" value="Difficulty concentrating or making decisions" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Feelings of guilt or worthlessness" label="Feelings of guilt or worthlessness">
+        <attvalues>
+          <attvalue for="0" value="Feelings of guilt or worthlessness" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Recurrent thoughts of death or suicide" label="Recurrent thoughts of death or suicide">
+        <attvalues>
+          <attvalue for="0" value="Recurrent thoughts of death or suicide" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Social withdrawal or isolation" label="Social withdrawal or isolation">
+        <attvalues>
+          <attvalue for="0" value="Social withdrawal or isolation" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Excessive worry or anxiety" label="Excessive worry or anxiety">
+        <attvalues>
+          <attvalue for="0" value="Excessive worry or anxiety" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Panic attacks" label="Panic attacks">
+        <attvalues>
+          <attvalue for="0" value="Panic attacks" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Obsessive thoughts or compulsive behaviors" label="Obsessive thoughts or compulsive behaviors">
+        <attvalues>
+          <attvalue for="0" value="Obsessive thoughts or compulsive behaviors" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Intrusive memories or flashbacks" label="Intrusive memories or flashbacks">
+        <attvalues>
+          <attvalue for="0" value="Intrusive memories or flashbacks" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Hallucinations or delusions" label="Hallucinations or delusions">
+        <attvalues>
+          <attvalue for="0" value="Hallucinations or delusions" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Paranoia or suspiciousness" label="Paranoia or suspiciousness">
+        <attvalues>
+          <attvalue for="0" value="Paranoia or suspiciousness" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Difficulty managing anger or aggression" label="Difficulty managing anger or aggression">
+        <attvalues>
+          <attvalue for="0" value="Difficulty managing anger or aggression" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Impulsive or risky behaviors" label="Impulsive or risky behaviors">
+        <attvalues>
+          <attvalue for="0" value="Impulsive or risky behaviors" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Changes in sex drive or sexual behavior" label="Changes in sex drive or sexual behavior">
+        <attvalues>
+          <attvalue for="0" value="Changes in sex drive or sexual behavior" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Physical symptoms without a clear medical cause (headaches, stomachaches)" label="Physical symptoms without a clear medical cause (headaches, stomachaches)">
+        <attvalues>
+          <attvalue for="0" value="Physical symptoms without a clear medical cause (headaches, stomachaches)" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Excessive use of alcohol or drugs" label="Excessive use of alcohol or drugs">
+        <attvalues>
+          <attvalue for="0" value="Excessive use of alcohol or drugs" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Difficulty coping with daily tasks or responsibilities" label="Difficulty coping with daily tasks or responsibilities">
+        <attvalues>
+          <attvalue for="0" value="Difficulty coping with daily tasks or responsibilities" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Changes in speech or thought patterns" label="Changes in speech or thought patterns">
+        <attvalues>
+          <attvalue for="0" value="Changes in speech or thought patterns" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Feeling detached from oneself or reality (dissociation)" label="Feeling detached from oneself or reality (dissociation)">
+        <attvalues>
+          <attvalue for="0" value="Feeling detached from oneself or reality (dissociation)" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Intense mood swings or emotional instability" label="Intense mood swings or emotional instability">
+        <attvalues>
+          <attvalue for="0" value="Intense mood swings or emotional instability" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Excessive or inappropriate guilt" label="Excessive or inappropriate guilt">
+        <attvalues>
+          <attvalue for="0" value="Excessive or inappropriate guilt" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Sudden mood changes unrelated to external events" label="Sudden mood changes unrelated to external events">
+        <attvalues>
+          <attvalue for="0" value="Sudden mood changes unrelated to external events" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Decreased ability to feel pleasure (anhedonia)" label="Decreased ability to feel pleasure (anhedonia)">
+        <attvalues>
+          <attvalue for="0" value="Decreased ability to feel pleasure (anhedonia)" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Increased or decreased speech (rate, volume, speed)" label="Increased or decreased speech (rate, volume, speed)">
+        <attvalues>
+          <attvalue for="0" value="Increased or decreased speech (rate, volume, speed)" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Disorganized thinking or speech" label="Disorganized thinking or speech">
+        <attvalues>
+          <attvalue for="0" value="Disorganized thinking or speech" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Unexplained aches and pains" label="Unexplained aches and pains">
+        <attvalues>
+          <attvalue for="0" value="Unexplained aches and pains" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Difficulty with memory, attention, or cognitive functions" label="Difficulty with memory, attention, or cognitive functions">
+        <attvalues>
+          <attvalue for="0" value="Difficulty with memory, attention, or cognitive functions" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Heightened sensitivity to rejection or criticism" label="Heightened sensitivity to rejection or criticism">
+        <attvalues>
+          <attvalue for="0" value="Heightened sensitivity to rejection or criticism" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Avoidance of social situations due to fear of embarrassment" label="Avoidance of social situations due to fear of embarrassment">
+        <attvalues>
+          <attvalue for="0" value="Avoidance of social situations due to fear of embarrassment" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Intense fear or phobia of specific objects or situations" label="Intense fear or phobia of specific objects or situations">
+        <attvalues>
+          <attvalue for="0" value="Intense fear or phobia of specific objects or situations" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Excessive need for reassurance or approval" label="Excessive need for reassurance or approval">
+        <attvalues>
+          <attvalue for="0" value="Excessive need for reassurance or approval" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Difficulty understanding or relating to others" label="Difficulty understanding or relating to others">
+        <attvalues>
+          <attvalue for="0" value="Difficulty understanding or relating to others" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Overwhelming feelings of nervousness or tension" label="Overwhelming feelings of nervousness or tension">
+        <attvalues>
+          <attvalue for="0" value="Overwhelming feelings of nervousness or tension" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Sudden attacks of fear or terror" label="Sudden attacks of fear or terror">
+        <attvalues>
+          <attvalue for="0" value="Sudden attacks of fear or terror" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Fear of losing control or &quot;going crazy&quot;" label="Fear of losing control or &quot;going crazy&quot;">
+        <attvalues>
+          <attvalue for="0" value="Fear of losing control or &quot;going crazy&quot;" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Fear of dying or sense of impending doom" label="Fear of dying or sense of impending doom">
+        <attvalues>
+          <attvalue for="0" value="Fear of dying or sense of impending doom" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="A sense of detachment from one's body or surroundings (depersonalization or derealization)" label="A sense of detachment from one's body or surroundings (depersonalization or derealization)">
+        <attvalues>
+          <attvalue for="0" value="A sense of detachment from one's body or surroundings (depersonalization or derealization)" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Excessive preoccupation with physical health or appearance" label="Excessive preoccupation with physical health or appearance">
+        <attvalues>
+          <attvalue for="0" value="Excessive preoccupation with physical health or appearance" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Strong avoidance of anything that triggers distressing memories or thoughts" label="Strong avoidance of anything that triggers distressing memories or thoughts">
+        <attvalues>
+          <attvalue for="0" value="Strong avoidance of anything that triggers distressing memories or thoughts" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Reckless disregard for the safety of oneself or others" label="Reckless disregard for the safety of oneself or others">
+        <attvalues>
+          <attvalue for="0" value="Reckless disregard for the safety of oneself or others" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Persistent belief in something untrue, despite evidence to the contrary (delusions)" label="Persistent belief in something untrue, despite evidence to the contrary (delusions)">
+        <attvalues>
+          <attvalue for="0" value="Persistent belief in something untrue, despite evidence to the contrary (delusions)" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Repeated, persistent, and unwanted thoughts, urges, or images that are intrusive and cause distress (obsessions)" label="Repeated, persistent, and unwanted thoughts, urges, or images that are intrusive and cause distress (obsessions)">
+        <attvalues>
+          <attvalue for="0" value="Repeated, persistent, and unwanted thoughts, urges, or images that are intrusive and cause distress (obsessions)" />
+          <attvalue for="1" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Major Depressive Disorder" label="Major Depressive Disorder">
+        <attvalues>
+          <attvalue for="0" value="Major Depressive Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Generalized Anxiety Disorder" label="Generalized Anxiety Disorder">
+        <attvalues>
+          <attvalue for="0" value="Generalized Anxiety Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Bipolar Disorder" label="Bipolar Disorder">
+        <attvalues>
+          <attvalue for="0" value="Bipolar Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Schizophrenia" label="Schizophrenia">
+        <attvalues>
+          <attvalue for="0" value="Schizophrenia" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Post-Traumatic Stress Disorder (PTSD)" label="Post-Traumatic Stress Disorder (PTSD)">
+        <attvalues>
+          <attvalue for="0" value="Post-Traumatic Stress Disorder (PTSD)" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Obsessive-Compulsive Disorder (OCD)" label="Obsessive-Compulsive Disorder (OCD)">
+        <attvalues>
+          <attvalue for="0" value="Obsessive-Compulsive Disorder (OCD)" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Panic Disorder" label="Panic Disorder">
+        <attvalues>
+          <attvalue for="0" value="Panic Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Social Anxiety Disorder" label="Social Anxiety Disorder">
+        <attvalues>
+          <attvalue for="0" value="Social Anxiety Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Borderline Personality Disorder" label="Borderline Personality Disorder">
+        <attvalues>
+          <attvalue for="0" value="Borderline Personality Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Anorexia Nervosa" label="Anorexia Nervosa">
+        <attvalues>
+          <attvalue for="0" value="Anorexia Nervosa" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Bulimia Nervosa" label="Bulimia Nervosa">
+        <attvalues>
+          <attvalue for="0" value="Bulimia Nervosa" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Binge-Eating Disorder" label="Binge-Eating Disorder">
+        <attvalues>
+          <attvalue for="0" value="Binge-Eating Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Attention-Deficit/Hyperactivity Disorder (ADHD)" label="Attention-Deficit/Hyperactivity Disorder (ADHD)">
+        <attvalues>
+          <attvalue for="0" value="Attention-Deficit/Hyperactivity Disorder (ADHD)" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Autism Spectrum Disorder" label="Autism Spectrum Disorder">
+        <attvalues>
+          <attvalue for="0" value="Autism Spectrum Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Dissociative Identity Disorder" label="Dissociative Identity Disorder">
+        <attvalues>
+          <attvalue for="0" value="Dissociative Identity Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Schizoaffective Disorder" label="Schizoaffective Disorder">
+        <attvalues>
+          <attvalue for="0" value="Schizoaffective Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Narcissistic Personality Disorder" label="Narcissistic Personality Disorder">
+        <attvalues>
+          <attvalue for="0" value="Narcissistic Personality Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Antisocial Personality Disorder" label="Antisocial Personality Disorder">
+        <attvalues>
+          <attvalue for="0" value="Antisocial Personality Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Avoidant Personality Disorder" label="Avoidant Personality Disorder">
+        <attvalues>
+          <attvalue for="0" value="Avoidant Personality Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Agoraphobia" label="Agoraphobia">
+        <attvalues>
+          <attvalue for="0" value="Agoraphobia" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Specific Phobia" label="Specific Phobia">
+        <attvalues>
+          <attvalue for="0" value="Specific Phobia" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Substance Use Disorder" label="Substance Use Disorder">
+        <attvalues>
+          <attvalue for="0" value="Substance Use Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Insomnia Disorder" label="Insomnia Disorder">
+        <attvalues>
+          <attvalue for="0" value="Insomnia Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Body Dysmorphic Disorder" label="Body Dysmorphic Disorder">
+        <attvalues>
+          <attvalue for="0" value="Body Dysmorphic Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Adjustment Disorder" label="Adjustment Disorder">
+        <attvalues>
+          <attvalue for="0" value="Adjustment Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Dysthymia (Persistent Depressive Disorder)" label="Dysthymia (Persistent Depressive Disorder)">
+        <attvalues>
+          <attvalue for="0" value="Dysthymia (Persistent Depressive Disorder)" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Cyclothymic Disorder" label="Cyclothymic Disorder">
+        <attvalues>
+          <attvalue for="0" value="Cyclothymic Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Acute Stress Disorder" label="Acute Stress Disorder">
+        <attvalues>
+          <attvalue for="0" value="Acute Stress Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Panic Disorder with Agoraphobia" label="Panic Disorder with Agoraphobia">
+        <attvalues>
+          <attvalue for="0" value="Panic Disorder with Agoraphobia" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Separation Anxiety Disorder" label="Separation Anxiety Disorder">
+        <attvalues>
+          <attvalue for="0" value="Separation Anxiety Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Selective Mutism" label="Selective Mutism">
+        <attvalues>
+          <attvalue for="0" value="Selective Mutism" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Reactive Attachment Disorder" label="Reactive Attachment Disorder">
+        <attvalues>
+          <attvalue for="0" value="Reactive Attachment Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Disinhibited Social Engagement Disorder" label="Disinhibited Social Engagement Disorder">
+        <attvalues>
+          <attvalue for="0" value="Disinhibited Social Engagement Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Trichotillomania (Hair-Pulling Disorder)" label="Trichotillomania (Hair-Pulling Disorder)">
+        <attvalues>
+          <attvalue for="0" value="Trichotillomania (Hair-Pulling Disorder)" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Excoriation (Skin-Picking) Disorder" label="Excoriation (Skin-Picking) Disorder">
+        <attvalues>
+          <attvalue for="0" value="Excoriation (Skin-Picking) Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Hoarding Disorder" label="Hoarding Disorder">
+        <attvalues>
+          <attvalue for="0" value="Hoarding Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Paranoid Personality Disorder" label="Paranoid Personality Disorder">
+        <attvalues>
+          <attvalue for="0" value="Paranoid Personality Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Schizoid Personality Disorder" label="Schizoid Personality Disorder">
+        <attvalues>
+          <attvalue for="0" value="Schizoid Personality Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Schizotypal Personality Disorder" label="Schizotypal Personality Disorder">
+        <attvalues>
+          <attvalue for="0" value="Schizotypal Personality Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Histrionic Personality Disorder" label="Histrionic Personality Disorder">
+        <attvalues>
+          <attvalue for="0" value="Histrionic Personality Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Dependent Personality Disorder" label="Dependent Personality Disorder">
+        <attvalues>
+          <attvalue for="0" value="Dependent Personality Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Obsessive-Compulsive Personality Disorder" label="Obsessive-Compulsive Personality Disorder">
+        <attvalues>
+          <attvalue for="0" value="Obsessive-Compulsive Personality Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Intermittent Explosive Disorder" label="Intermittent Explosive Disorder">
+        <attvalues>
+          <attvalue for="0" value="Intermittent Explosive Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Conduct Disorder" label="Conduct Disorder">
+        <attvalues>
+          <attvalue for="0" value="Conduct Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Oppositional Defiant Disorder" label="Oppositional Defiant Disorder">
+        <attvalues>
+          <attvalue for="0" value="Oppositional Defiant Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Delusional Disorder" label="Delusional Disorder">
+        <attvalues>
+          <attvalue for="0" value="Delusional Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Brief Psychotic Disorder" label="Brief Psychotic Disorder">
+        <attvalues>
+          <attvalue for="0" value="Brief Psychotic Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Shared Psychotic Disorder (Folie à Deux)" label="Shared Psychotic Disorder (Folie à Deux)">
+        <attvalues>
+          <attvalue for="0" value="Shared Psychotic Disorder (Folie à Deux)" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Premenstrual Dysphoric Disorder" label="Premenstrual Dysphoric Disorder">
+        <attvalues>
+          <attvalue for="0" value="Premenstrual Dysphoric Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+      <node id="Gambling Disorder" label="Gambling Disorder">
+        <attvalues>
+          <attvalue for="0" value="Gambling Disorder" />
+          <attvalue for="1" value="MedicalCondition" />
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Persistent sadness or feelings of hopelessness" target="Major Depressive Disorder" id="0">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Persistent sadness or feelings of hopelessness" target="Bipolar Disorder" id="1">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Persistent sadness or feelings of hopelessness" target="Post-Traumatic Stress Disorder (PTSD)" id="2">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Persistent sadness or feelings of hopelessness" target="Borderline Personality Disorder" id="3">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Persistent sadness or feelings of hopelessness" target="Schizoaffective Disorder" id="4">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Persistent sadness or feelings of hopelessness" target="Adjustment Disorder" id="5">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Persistent sadness or feelings of hopelessness" target="Dysthymia (Persistent Depressive Disorder)" id="6">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Persistent sadness or feelings of hopelessness" target="Cyclothymic Disorder" id="7">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Persistent sadness or feelings of hopelessness" target="Acute Stress Disorder" id="8">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Persistent sadness or feelings of hopelessness" target="Histrionic Personality Disorder" id="9">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Persistent sadness or feelings of hopelessness" target="Premenstrual Dysphoric Disorder" id="10">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Loss of interest or pleasure in activities once enjoyed" target="Major Depressive Disorder" id="11">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Loss of interest or pleasure in activities once enjoyed" target="Bipolar Disorder" id="12">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Loss of interest or pleasure in activities once enjoyed" target="Anorexia Nervosa" id="13">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Loss of interest or pleasure in activities once enjoyed" target="Bulimia Nervosa" id="14">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Loss of interest or pleasure in activities once enjoyed" target="Binge-Eating Disorder" id="15">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Loss of interest or pleasure in activities once enjoyed" target="Body Dysmorphic Disorder" id="16">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Loss of interest or pleasure in activities once enjoyed" target="Dysthymia (Persistent Depressive Disorder)" id="17">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Loss of interest or pleasure in activities once enjoyed" target="Cyclothymic Disorder" id="18">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Changes in appetite or weight (significant weight loss or gain)" target="Anorexia Nervosa" id="19">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Changes in appetite or weight (significant weight loss or gain)" target="Bulimia Nervosa" id="20">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Changes in appetite or weight (significant weight loss or gain)" target="Binge-Eating Disorder" id="21">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Insomnia or excessive sleeping" target="Major Depressive Disorder" id="22">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Insomnia or excessive sleeping" target="Bipolar Disorder" id="23">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Insomnia or excessive sleeping" target="Insomnia Disorder" id="24">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Insomnia or excessive sleeping" target="Dysthymia (Persistent Depressive Disorder)" id="25">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Fatigue or loss of energy" target="Major Depressive Disorder" id="26">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Fatigue or loss of energy" target="Bipolar Disorder" id="27">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Fatigue or loss of energy" target="Anorexia Nervosa" id="28">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Fatigue or loss of energy" target="Schizoaffective Disorder" id="29">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Fatigue or loss of energy" target="Insomnia Disorder" id="30">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Fatigue or loss of energy" target="Dysthymia (Persistent Depressive Disorder)" id="31">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Fatigue or loss of energy" target="Cyclothymic Disorder" id="32">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Fatigue or loss of energy" target="Premenstrual Dysphoric Disorder" id="33">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Restlessness or irritability" target="Major Depressive Disorder" id="34">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Restlessness or irritability" target="Bipolar Disorder" id="35">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Restlessness or irritability" target="Schizophrenia" id="36">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Restlessness or irritability" target="Panic Disorder" id="37">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Restlessness or irritability" target="Attention-Deficit/Hyperactivity Disorder (ADHD)" id="38">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Restlessness or irritability" target="Schizoaffective Disorder" id="39">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Restlessness or irritability" target="Adjustment Disorder" id="40">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Restlessness or irritability" target="Dysthymia (Persistent Depressive Disorder)" id="41">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Restlessness or irritability" target="Cyclothymic Disorder" id="42">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Restlessness or irritability" target="Oppositional Defiant Disorder" id="43">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Restlessness or irritability" target="Premenstrual Dysphoric Disorder" id="44">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty concentrating or making decisions" target="Major Depressive Disorder" id="45">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty concentrating or making decisions" target="Generalized Anxiety Disorder" id="46">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty concentrating or making decisions" target="Bipolar Disorder" id="47">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty concentrating or making decisions" target="Schizophrenia" id="48">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty concentrating or making decisions" target="Obsessive-Compulsive Disorder (OCD)" id="49">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty concentrating or making decisions" target="Attention-Deficit/Hyperactivity Disorder (ADHD)" id="50">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty concentrating or making decisions" target="Autism Spectrum Disorder" id="51">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty concentrating or making decisions" target="Schizoaffective Disorder" id="52">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty concentrating or making decisions" target="Insomnia Disorder" id="53">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty concentrating or making decisions" target="Adjustment Disorder" id="54">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty concentrating or making decisions" target="Dysthymia (Persistent Depressive Disorder)" id="55">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty concentrating or making decisions" target="Panic Disorder with Agoraphobia" id="56">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty concentrating or making decisions" target="Obsessive-Compulsive Personality Disorder" id="57">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty concentrating or making decisions" target="Premenstrual Dysphoric Disorder" id="58">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Feelings of guilt or worthlessness" target="Major Depressive Disorder" id="59">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Feelings of guilt or worthlessness" target="Borderline Personality Disorder" id="60">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Feelings of guilt or worthlessness" target="Anorexia Nervosa" id="61">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Recurrent thoughts of death or suicide" target="Major Depressive Disorder" id="62">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Recurrent thoughts of death or suicide" target="Post-Traumatic Stress Disorder (PTSD)" id="63">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Recurrent thoughts of death or suicide" target="Dissociative Identity Disorder" id="64">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Recurrent thoughts of death or suicide" target="Substance Use Disorder" id="65">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Recurrent thoughts of death or suicide" target="Acute Stress Disorder" id="66">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Social withdrawal or isolation" target="Post-Traumatic Stress Disorder (PTSD)" id="67">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Social withdrawal or isolation" target="Social Anxiety Disorder" id="68">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Social withdrawal or isolation" target="Borderline Personality Disorder" id="69">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Social withdrawal or isolation" target="Autism Spectrum Disorder" id="70">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Social withdrawal or isolation" target="Narcissistic Personality Disorder" id="71">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Social withdrawal or isolation" target="Antisocial Personality Disorder" id="72">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Social withdrawal or isolation" target="Avoidant Personality Disorder" id="73">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Social withdrawal or isolation" target="Agoraphobia" id="74">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Social withdrawal or isolation" target="Adjustment Disorder" id="75">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Social withdrawal or isolation" target="Separation Anxiety Disorder" id="76">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Social withdrawal or isolation" target="Selective Mutism" id="77">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Social withdrawal or isolation" target="Reactive Attachment Disorder" id="78">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Social withdrawal or isolation" target="Disinhibited Social Engagement Disorder" id="79">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Social withdrawal or isolation" target="Schizoid Personality Disorder" id="80">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Social withdrawal or isolation" target="Schizotypal Personality Disorder" id="81">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Social withdrawal or isolation" target="Dependent Personality Disorder" id="82">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Excessive worry or anxiety" target="Generalized Anxiety Disorder" id="83">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Excessive worry or anxiety" target="Panic Disorder" id="84">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Excessive worry or anxiety" target="Social Anxiety Disorder" id="85">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Excessive worry or anxiety" target="Avoidant Personality Disorder" id="86">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Excessive worry or anxiety" target="Agoraphobia" id="87">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Excessive worry or anxiety" target="Specific Phobia" id="88">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Excessive worry or anxiety" target="Panic Disorder with Agoraphobia" id="89">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Excessive worry or anxiety" target="Separation Anxiety Disorder" id="90">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Panic attacks" target="Panic Disorder" id="91">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Panic attacks" target="Agoraphobia" id="92">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Panic attacks" target="Panic Disorder with Agoraphobia" id="93">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Obsessive thoughts or compulsive behaviors" target="Obsessive-Compulsive Disorder (OCD)" id="94">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Obsessive thoughts or compulsive behaviors" target="Bulimia Nervosa" id="95">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Obsessive thoughts or compulsive behaviors" target="Body Dysmorphic Disorder" id="96">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Obsessive thoughts or compulsive behaviors" target="Trichotillomania (Hair-Pulling Disorder)" id="97">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Obsessive thoughts or compulsive behaviors" target="Excoriation (Skin-Picking) Disorder" id="98">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Obsessive thoughts or compulsive behaviors" target="Hoarding Disorder" id="99">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Obsessive thoughts or compulsive behaviors" target="Obsessive-Compulsive Personality Disorder" id="100">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Intrusive memories or flashbacks" target="Generalized Anxiety Disorder" id="101">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Intrusive memories or flashbacks" target="Post-Traumatic Stress Disorder (PTSD)" id="102">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Intrusive memories or flashbacks" target="Dissociative Identity Disorder" id="103">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Intrusive memories or flashbacks" target="Acute Stress Disorder" id="104">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Hallucinations or delusions" target="Schizophrenia" id="105">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Hallucinations or delusions" target="Schizoaffective Disorder" id="106">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Hallucinations or delusions" target="Schizotypal Personality Disorder" id="107">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Hallucinations or delusions" target="Delusional Disorder" id="108">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Hallucinations or delusions" target="Brief Psychotic Disorder" id="109">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Hallucinations or delusions" target="Shared Psychotic Disorder (Folie à Deux)" id="110">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Paranoia or suspiciousness" target="Schizophrenia" id="111">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Paranoia or suspiciousness" target="Schizoaffective Disorder" id="112">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Paranoia or suspiciousness" target="Paranoid Personality Disorder" id="113">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Paranoia or suspiciousness" target="Schizotypal Personality Disorder" id="114">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Paranoia or suspiciousness" target="Delusional Disorder" id="115">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Paranoia or suspiciousness" target="Brief Psychotic Disorder" id="116">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Paranoia or suspiciousness" target="Shared Psychotic Disorder (Folie à Deux)" id="117">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty managing anger or aggression" target="Bipolar Disorder" id="118">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty managing anger or aggression" target="Schizophrenia" id="119">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty managing anger or aggression" target="Post-Traumatic Stress Disorder (PTSD)" id="120">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty managing anger or aggression" target="Borderline Personality Disorder" id="121">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty managing anger or aggression" target="Narcissistic Personality Disorder" id="122">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty managing anger or aggression" target="Antisocial Personality Disorder" id="123">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty managing anger or aggression" target="Paranoid Personality Disorder" id="124">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty managing anger or aggression" target="Histrionic Personality Disorder" id="125">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty managing anger or aggression" target="Dependent Personality Disorder" id="126">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty managing anger or aggression" target="Intermittent Explosive Disorder" id="127">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty managing anger or aggression" target="Conduct Disorder" id="128">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty managing anger or aggression" target="Oppositional Defiant Disorder" id="129">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty managing anger or aggression" target="Premenstrual Dysphoric Disorder" id="130">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Impulsive or risky behaviors" target="Bipolar Disorder" id="131">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Impulsive or risky behaviors" target="Borderline Personality Disorder" id="132">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Impulsive or risky behaviors" target="Bulimia Nervosa" id="133">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Impulsive or risky behaviors" target="Binge-Eating Disorder" id="134">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Impulsive or risky behaviors" target="Attention-Deficit/Hyperactivity Disorder (ADHD)" id="135">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Impulsive or risky behaviors" target="Narcissistic Personality Disorder" id="136">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Impulsive or risky behaviors" target="Antisocial Personality Disorder" id="137">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Impulsive or risky behaviors" target="Substance Use Disorder" id="138">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Impulsive or risky behaviors" target="Disinhibited Social Engagement Disorder" id="139">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Impulsive or risky behaviors" target="Trichotillomania (Hair-Pulling Disorder)" id="140">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Impulsive or risky behaviors" target="Excoriation (Skin-Picking) Disorder" id="141">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Impulsive or risky behaviors" target="Histrionic Personality Disorder" id="142">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Impulsive or risky behaviors" target="Intermittent Explosive Disorder" id="143">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Impulsive or risky behaviors" target="Conduct Disorder" id="144">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Impulsive or risky behaviors" target="Gambling Disorder" id="145">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Changes in sex drive or sexual behavior" target="Borderline Personality Disorder" id="146">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Physical symptoms without a clear medical cause (headaches, stomachaches)" target="Generalized Anxiety Disorder" id="147">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Physical symptoms without a clear medical cause (headaches, stomachaches)" target="Post-Traumatic Stress Disorder (PTSD)" id="148">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Physical symptoms without a clear medical cause (headaches, stomachaches)" target="Panic Disorder" id="149">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Physical symptoms without a clear medical cause (headaches, stomachaches)" target="Social Anxiety Disorder" id="150">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Physical symptoms without a clear medical cause (headaches, stomachaches)" target="Anorexia Nervosa" id="151">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Physical symptoms without a clear medical cause (headaches, stomachaches)" target="Bulimia Nervosa" id="152">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Physical symptoms without a clear medical cause (headaches, stomachaches)" target="Binge-Eating Disorder" id="153">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Physical symptoms without a clear medical cause (headaches, stomachaches)" target="Agoraphobia" id="154">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Physical symptoms without a clear medical cause (headaches, stomachaches)" target="Specific Phobia" id="155">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Physical symptoms without a clear medical cause (headaches, stomachaches)" target="Body Dysmorphic Disorder" id="156">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Physical symptoms without a clear medical cause (headaches, stomachaches)" target="Acute Stress Disorder" id="157">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Physical symptoms without a clear medical cause (headaches, stomachaches)" target="Panic Disorder with Agoraphobia" id="158">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Physical symptoms without a clear medical cause (headaches, stomachaches)" target="Separation Anxiety Disorder" id="159">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Excessive use of alcohol or drugs" target="Substance Use Disorder" id="160">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Excessive use of alcohol or drugs" target="Conduct Disorder" id="161">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Excessive use of alcohol or drugs" target="Gambling Disorder" id="162">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty coping with daily tasks or responsibilities" target="Generalized Anxiety Disorder" id="163">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty coping with daily tasks or responsibilities" target="Obsessive-Compulsive Disorder (OCD)" id="164">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty coping with daily tasks or responsibilities" target="Social Anxiety Disorder" id="165">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty coping with daily tasks or responsibilities" target="Attention-Deficit/Hyperactivity Disorder (ADHD)" id="166">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty coping with daily tasks or responsibilities" target="Autism Spectrum Disorder" id="167">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty coping with daily tasks or responsibilities" target="Avoidant Personality Disorder" id="168">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty coping with daily tasks or responsibilities" target="Adjustment Disorder" id="169">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty coping with daily tasks or responsibilities" target="Selective Mutism" id="170">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty coping with daily tasks or responsibilities" target="Reactive Attachment Disorder" id="171">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty coping with daily tasks or responsibilities" target="Hoarding Disorder" id="172">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty coping with daily tasks or responsibilities" target="Schizoid Personality Disorder" id="173">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty coping with daily tasks or responsibilities" target="Dependent Personality Disorder" id="174">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty coping with daily tasks or responsibilities" target="Obsessive-Compulsive Personality Disorder" id="175">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty coping with daily tasks or responsibilities" target="Oppositional Defiant Disorder" id="176">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Changes in speech or thought patterns" target="Schizophrenia" id="177">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Changes in speech or thought patterns" target="Autism Spectrum Disorder" id="178">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Changes in speech or thought patterns" target="Selective Mutism" id="179">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Changes in speech or thought patterns" target="Brief Psychotic Disorder" id="180">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Feeling detached from oneself or reality (dissociation)" target="Bipolar Disorder" id="181">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Feeling detached from oneself or reality (dissociation)" target="Dissociative Identity Disorder" id="182">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Feeling detached from oneself or reality (dissociation)" target="Cyclothymic Disorder" id="183">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Intense mood swings or emotional instability" target="Bipolar Disorder" id="184">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Intense mood swings or emotional instability" target="Borderline Personality Disorder" id="185">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Intense mood swings or emotional instability" target="Cyclothymic Disorder" id="186">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Excessive or inappropriate guilt" target="Major Depressive Disorder" id="187">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Excessive or inappropriate guilt" target="Dysthymia (Persistent Depressive Disorder)" id="188">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Sudden mood changes unrelated to external events" target="Bipolar Disorder" id="189">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Sudden mood changes unrelated to external events" target="Borderline Personality Disorder" id="190">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Sudden mood changes unrelated to external events" target="Schizoaffective Disorder" id="191">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Sudden mood changes unrelated to external events" target="Cyclothymic Disorder" id="192">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Decreased ability to feel pleasure (anhedonia)" target="Major Depressive Disorder" id="193">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Decreased ability to feel pleasure (anhedonia)" target="Bipolar Disorder" id="194">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Decreased ability to feel pleasure (anhedonia)" target="Schizoaffective Disorder" id="195">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Increased or decreased speech (rate, volume, speed)" target="Schizophrenia" id="196">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Increased or decreased speech (rate, volume, speed)" target="Schizoaffective Disorder" id="197">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Increased or decreased speech (rate, volume, speed)" target="Brief Psychotic Disorder" id="198">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Disorganized thinking or speech" target="Schizophrenia" id="199">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Disorganized thinking or speech" target="Schizoaffective Disorder" id="200">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Disorganized thinking or speech" target="Brief Psychotic Disorder" id="201">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Unexplained aches and pains" target="Insomnia Disorder" id="202">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Unexplained aches and pains" target="Trichotillomania (Hair-Pulling Disorder)" id="203">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Unexplained aches and pains" target="Excoriation (Skin-Picking) Disorder" id="204">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty with memory, attention, or cognitive functions" target="Attention-Deficit/Hyperactivity Disorder (ADHD)" id="205">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Heightened sensitivity to rejection or criticism" target="Social Anxiety Disorder" id="206">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Heightened sensitivity to rejection or criticism" target="Avoidant Personality Disorder" id="207">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Heightened sensitivity to rejection or criticism" target="Separation Anxiety Disorder" id="208">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Heightened sensitivity to rejection or criticism" target="Paranoid Personality Disorder" id="209">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Avoidance of social situations due to fear of embarrassment" target="Social Anxiety Disorder" id="210">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Avoidance of social situations due to fear of embarrassment" target="Histrionic Personality Disorder" id="211">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Intense fear or phobia of specific objects or situations" target="Agoraphobia" id="212">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Intense fear or phobia of specific objects or situations" target="Specific Phobia" id="213">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Intense fear or phobia of specific objects or situations" target="Panic Disorder with Agoraphobia" id="214">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Intense fear or phobia of specific objects or situations" target="Obsessive-Compulsive Personality Disorder" id="215">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Excessive need for reassurance or approval" target="Narcissistic Personality Disorder" id="216">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Excessive need for reassurance or approval" target="Dependent Personality Disorder" id="217">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Excessive need for reassurance or approval" target="Gambling Disorder" id="218">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty understanding or relating to others" target="Autism Spectrum Disorder" id="219">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty understanding or relating to others" target="Selective Mutism" id="220">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty understanding or relating to others" target="Reactive Attachment Disorder" id="221">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty understanding or relating to others" target="Disinhibited Social Engagement Disorder" id="222">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty understanding or relating to others" target="Schizoid Personality Disorder" id="223">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Difficulty understanding or relating to others" target="Schizotypal Personality Disorder" id="224">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Overwhelming feelings of nervousness or tension" target="Generalized Anxiety Disorder" id="225">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Overwhelming feelings of nervousness or tension" target="Adjustment Disorder" id="226">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Overwhelming feelings of nervousness or tension" target="Acute Stress Disorder" id="227">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Sudden attacks of fear or terror" target="Panic Disorder" id="228">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Sudden attacks of fear or terror" target="Panic Disorder with Agoraphobia" id="229">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Fear of losing control or &quot;going crazy&quot;" target="Panic Disorder" id="230">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Fear of dying or sense of impending doom" target="Panic Disorder" id="231">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Fear of dying or sense of impending doom" target="Premenstrual Dysphoric Disorder" id="232">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="A sense of detachment from one's body or surroundings (depersonalization or derealization)" target="Dissociative Identity Disorder" id="233">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Excessive preoccupation with physical health or appearance" target="Anorexia Nervosa" id="234">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Excessive preoccupation with physical health or appearance" target="Bulimia Nervosa" id="235">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Excessive preoccupation with physical health or appearance" target="Body Dysmorphic Disorder" id="236">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Excessive preoccupation with physical health or appearance" target="Hoarding Disorder" id="237">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Strong avoidance of anything that triggers distressing memories or thoughts" target="Post-Traumatic Stress Disorder (PTSD)" id="238">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Strong avoidance of anything that triggers distressing memories or thoughts" target="Acute Stress Disorder" id="239">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Reckless disregard for the safety of oneself or others" target="Antisocial Personality Disorder" id="240">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Reckless disregard for the safety of oneself or others" target="Substance Use Disorder" id="241">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Reckless disregard for the safety of oneself or others" target="Intermittent Explosive Disorder" id="242">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Reckless disregard for the safety of oneself or others" target="Conduct Disorder" id="243">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Reckless disregard for the safety of oneself or others" target="Oppositional Defiant Disorder" id="244">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Persistent belief in something untrue, despite evidence to the contrary (delusions)" target="Schizophrenia" id="245">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Persistent belief in something untrue, despite evidence to the contrary (delusions)" target="Delusional Disorder" id="246">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Persistent belief in something untrue, despite evidence to the contrary (delusions)" target="Shared Psychotic Disorder (Folie à Deux)" id="247">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="Repeated, persistent, and unwanted thoughts, urges, or images that are intrusive and cause distress (obsessions)" target="Obsessive-Compulsive Disorder (OCD)" id="248">
+        <attvalues>
+          <attvalue for="3" value="100" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
