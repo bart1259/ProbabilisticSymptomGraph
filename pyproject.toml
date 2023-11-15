@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "probabilistic-symptom-graph"
-version = "1.0.2"
+version = "1.0.3"
 description = "Using a bipartite graph of medical conditions and symptoms with relative weighted edges, gives the estimated probability of having each illness given a list of symptoms"
 readme = "README.md"
 authors = [{ name = "Bart Gebka", email = "bartg1259@gmail.com" }]
